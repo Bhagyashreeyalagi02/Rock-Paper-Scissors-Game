@@ -21,7 +21,7 @@ Welcome to the Tic Tac Toe game repository! This project features a classic Tic 
 - **CSS**: Styles the game to provide an attractive and user-friendly experience.
 - **JavaScript**: Implements the game logic, including player choices, computer choices, and result determination.
 
-How to Play
+## How to Play
 Start the Game: Open the index.html file in your web browser to access the game interface.
 Make Your Choice: Click on Rock, Paper, or Scissors to select your move.
 View the Result: The game will display the computer’s choice, the outcome (win, lose, or tie), and update the score accordingly.
